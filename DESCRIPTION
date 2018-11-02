@@ -1,4 +1,4 @@
-Package: square_function
+Package: square
 Type: Package
 Title: Package to calculate the square of a number and the mode of a vector
 Version: 0.1.0
