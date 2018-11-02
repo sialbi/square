@@ -1,0 +1,10 @@
+Package: square_function
+Type: Package
+Title: Package to calculate the square of a number and the mode of a vector
+Version: 0.1.0
+Author: Silvan Albin
+Maintainer: Silvan Albin <silvan.albin@hotmail.com>
+Description: This package includes a simple function to calculate the square of a number.
+License: 
+Encoding: UTF-8
+LazyData: yes
